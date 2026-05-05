@@ -1,0 +1,4 @@
+dist/
+*.zip
+latest.json
+.DS_Store
